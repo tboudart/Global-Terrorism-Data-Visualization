@@ -7,4 +7,4 @@ The TylerBoudart_ShinyDataFrames file is the R File I used to create the differe
 
 The TylerBoudart_app file is the R File that runs the Shiny Dashboard. 
 
-Don't hestitate to email me at tlboudart@gmail.com if you have any comments or questions. 
+Don't hestitate to email me at tlboudart@gmail.com if you have any comments, questions, or suggestions.
