@@ -6,5 +6,3 @@ I uploaded a trimmed dataset used for the project. The original dataset could be
 The TylerBoudart_ShinyDataFrames file is the R File I used to create the different dataframes used on the Shiny Dashboard. 
 
 The TylerBoudart_app file is the R File that runs the Shiny Dashboard. 
-
-Don't hestitate to email me at tlboudart@gmail.com if you have any comments, questions, or suggestions.
