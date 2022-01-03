@@ -7,6 +7,8 @@ library(plyr)
 
 #Creating Data Frames
 
+terrorism_trimmed <- read.csv("~/2_Personal/DePaul/DSC 465 - Data Visualization/Project - DSC 465/Version 2/terrorism_trimmed.csv", stringsAsFactors=TRUE)
+
 terrorism_trimmed <- terrorism_trimmed %>%
   mutate(year = iyear) %>%
   select(-c(1))
